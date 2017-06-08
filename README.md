@@ -1,2 +1,2 @@
-# practice tyst
+# practice tust
 
